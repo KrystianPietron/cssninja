@@ -1,0 +1,13 @@
+/*********************************************************
+*
+*Author: Krystian Pieroń
+*Date: 14.10.18
+*********************************************************/
+
+article p:first-of-type{
+    font-weight: bold;
+}
+
+article p:last-of-type{
+    color: red;
+}
