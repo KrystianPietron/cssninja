@@ -1,13 +1,22 @@
-#header{
-    position:absolute;
-    top:0;
-    left:0;
+/*********************************************************
+*
+*Author: Krystian Pieroń
+*Date: 14.10.18
+*********************************************************/
+
+
+
+
+/* wszystkie znaczniki p*/
+p{   
+    font-size: 18px; 
+    color: red;
 }
 
-#header h1{
-    font-size: 32px;
+#header p {
+    font-size:24px;
 }
 
-#p{
-    font-size: 12px;
-}
+h1{
+    font-size: 44px;
+} 
