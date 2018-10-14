@@ -4,10 +4,6 @@
 *Date: 14.10.18
 *********************************************************/
 
-
-p, span, a, li{
+#main-content #sub-content p{
     color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: arial;
 }
