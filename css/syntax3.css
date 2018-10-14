@@ -1,0 +1,23 @@
+/*********************************************************
+*
+*Author: Krystian Pieroń
+*Date: 14.10.18
+*********************************************************/
+
+h2{
+    font-size: 24px;
+}
+
+#content-header{
+    font-size: 18px;
+    color: red;
+}
+
+span{
+    display: block;
+    color: blue;
+}
+
+.deck{
+    color: red;
+}
