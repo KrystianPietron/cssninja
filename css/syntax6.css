@@ -1,0 +1,22 @@
+/*********************************************************
+*
+*Author: Krystian Pieroń
+*Date: 14.10.18
+*********************************************************/
+
+
+#main-content p{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+.test{
+    color: green;
+}
+
+strong{
+    color: green;
+}
